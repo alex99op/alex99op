@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alex99op.
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning data engineer.
-- 💞️ I’m looking to collaborate on Python and C programming also to fix bugs in the Linux kernel.
+- 💞️ I’m looking to collaborate on Python and C programming.
 - 📫 How to reach me: dm me here.
 
 <!---
